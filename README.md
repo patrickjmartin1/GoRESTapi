@@ -23,3 +23,6 @@ $ curl -X DELETE http://localhost:5000/api/v1/courses/IOS301
 
 I added and modified a few things, and also have the Go debugger working in VSCode. Feeling good about this! 
 
+Git Update 10/20/21:
+
+We did not start with a main branch. Should have done that first. This commit allows us to use Main branch. 
